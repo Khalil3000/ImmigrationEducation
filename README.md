@@ -53,7 +53,17 @@ The dataset allows:
 
 ### Men - all groups over time
 ![Men Plot](outputs/maend_grupper.png)
+### Women - all groups over time
+![Women Plot](outputs/kvinder_grupper.png)
 
+### Immigrants - men vs women
+![Immigrants Plot](outputs/indvandrere_kon.png)
+
+## Insights
+- Students with Danish origin show a declining trend over time  
+- Descendants increase until around 2020 and then stabilize  
+- Immigrants decrease until 2020, followed by a recovery  
+- Trends are similar for men and women, but women have consistently higher numbers 
 
 
 ## ⚙️ Technologies
