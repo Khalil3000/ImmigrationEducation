@@ -48,6 +48,14 @@ The dataset allows:
 - Comparison between genders
 - Analysis of trends over time
 
+
+## Results
+
+### Men - all groups over time
+![Men Plot](outputs/maend_grupper.png)
+
+
+
 ## ⚙️ Technologies
 
 - Python
