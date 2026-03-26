@@ -4,7 +4,7 @@ This project analyzes educational activity in Denmark based on data from Statist
 
 ## Why this matters
 
-Understanding changes in student composition can help policymakers and institutions better plan education and integration efforts.
+Changes in student composition have direct implications for capacity planning, resource allocation, and targeted integration initiatives. Understanding these trends enables policymakers and institutions to anticipate shifts in demand and design more effective education and inclusion strategies.
 
 ## 📊 Dataset
 The data comes from Statistics Denmark (DST) and includes:
