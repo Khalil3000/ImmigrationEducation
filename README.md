@@ -66,16 +66,3 @@ notebooks/01_data_overview.ipynb
 📌 Author
 
 Khalil Mashinesh
-
-
----
-
-# 🎯 Trin 3: Gem og commit
-
-I VS Code:
-
-1. Gå til **Source Control**
-2. Skriv besked:
-
-```text
-update README
