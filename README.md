@@ -2,6 +2,10 @@
 
 This project analyzes educational activity in Denmark based on data from Statistikbanken.
 
+## Why this matters
+
+Understanding changes in student composition can help policymakers and institutions better plan education and integration efforts.
+
 ## 📊 Dataset
 The data comes from Statistics Denmark (DST) and includes:
 - Educational activity in upper secondary education (gymnasiale uddannelser)
@@ -65,6 +69,14 @@ The dataset allows:
 - Immigrants decrease until 2020, followed by a recovery  
 - Trends are similar for men and women, but women have consistently higher numbers 
 
+
+## Conclusion
+
+This analysis shows a clear decline in students with Danish origin over time, while descendants have increased and immigrants show recovery after 2020.
+
+The patterns are similar for men and women, suggesting that broader structural trends affect all groups.
+
+Overall, the composition of students is gradually changing over time.
 
 ## ⚙️ Technologies
 
