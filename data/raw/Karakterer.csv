@@ -1,0 +1,27 @@
+"Uddannelsesaktivitet på gymnasiale uddannelser efter status, national"
+"oprindelse, bopælsregion, uddannelse, køn, herkomst og tid"
+
+" ";" ";" ";" ";" ";" ";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"2023";"2024";"2025"
+"Fuldført"
+" ";"I alt"
+" ";" ";"Hele landet"
+" ";" ";" ";"H201010 Stx"
+" ";" ";" ";" ";"Mænd"
+" ";" ";" ";" ";" ";"Personer med dansk oprindelse";9700;9952;9477;9477;9532;8890;8722;8474;8643;8196;8241
+" ";" ";" ";" ";" ";"Indvandrere";284;312;305;241;222;186;220;214;272;256;306
+" ";" ";" ";" ";" ";"Efterkommere";603;681;685;731;911;964;891;907;764;719;664
+" ";" ";" ";" ";"Kvinder"
+" ";" ";" ";" ";" ";"Personer med dansk oprindelse";14941;15366;14799;15178;15435;14722;14075;13960;13662;13398;13585
+" ";" ";" ";" ";" ";"Indvandrere";410;446;367;420;381;324;330;368;379;474;532
+" ";" ";" ";" ";" ";"Efterkommere";1018;1109;1151;1270;1441;1443;1437;1363;1312;1202;1130
+
+"For dokumentation af tabellerne se: "
+"http://dst.dk/ext/uddannelse/Uddannelsestabeller  "
+"Se bemærkninger vedr. seneste version af Elevregistret her: "
+"www.dst.dk/ext/uddannelse/Uddannelsesnotat. Til og med skoleåret 2013 "
+"er alderen opgjort pr. 31. december det valgte år. "
+" Fra skoleåret 2014 og fremefter opgøres alderen pr. 30. september "
+"det valgte år.  Tallene i Statistikbanken kan revideres et år bagud "
+"ved opdatering, for det bagvedliggende elevregister er der ingen "
+"grænse. "
+
