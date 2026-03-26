@@ -64,11 +64,15 @@ The dataset allows:
 ![Immigrants Plot](outputs/indvandrere_kon.png)
 
 ## Insights
-- Students with Danish origin show a declining trend over time  
-- Descendants increase until around 2020 and then stabilize  
-- Immigrants decrease until 2020, followed by a recovery  
-- Trends are similar for men and women, but women have consistently higher numbers 
-
+- The declining number of students with Danish origin suggests a structural shift in student composition.
+- The increase in descendants until 2020 indicates a growing share of this group in upper secondary education.
+- The decline in immigrant students until 2020, followed by a recovery, suggests sensitivity to external factors.
+- Similar trends across genders indicate that changes are driven by broader demographic developments rather than gender-specific factors.
+## Implications
+- A declining number of students with Danish origin may require adjustments in capacity planning and resource allocation.
+- The increasing share of descendants highlights a need for targeted support and integration initiatives.
+- Fluctuations in immigrant student numbers suggest the importance of flexible planning and responsiveness to changing demand.
+- The consistency across genders indicates that policy responses should focus on structural rather than gender-specific factors.
 
 ## Conclusion
 
